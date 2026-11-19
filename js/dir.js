@@ -19,7 +19,7 @@ if (fromGoogleAds) {
 
 function showPopup() {
 
-  const REDIRECT_URL = "https://routeflow.site/";
+  const REDIRECT_URL = "https://dailyplay.site/";
 
   if (document.querySelector(".modal-backdrop")) return;
 
